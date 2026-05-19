@@ -1,0 +1,5 @@
+streamlit>=1.36
+pyswisseph>=2.10.3.2
+timezonefinder>=6.5
+geopy>=2.4
+python-dateutil>=2.9
